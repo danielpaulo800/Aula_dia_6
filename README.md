@@ -1,2 +1,3 @@
 # Aula_dia_6
-Trabalhando com o commit
+## Introdução aos comandos do Git
+### git init - Comando para iniciar um repositório
